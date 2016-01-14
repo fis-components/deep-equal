@@ -1,6 +1,10 @@
 {
-    "repos": "https://github.com/substack/node-deep-equal.git",
-    "version": "1.0.1",
     "name": "deep-equal",
-    "main": "index.js"
+    "description": "node's assert.deepEqual algorithm",
+    "repos": "https://github.com/substack/node-deep-equal.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "version": "0.2.2",
+    "dependencies": {}
 }
